@@ -59,4 +59,4 @@ Last Edited on: 07/06/2025
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FIRASBN/FIRASBN/output/snake.svg" alt="Snake animation" />
+<img src="/assets/snake.yml" alt="Snake animation" />
