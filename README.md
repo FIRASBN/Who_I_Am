@@ -52,7 +52,7 @@ I am completely passionate about full stack web development. I love creating bot
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasbenattia&show_icons=true&theme=radical&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenattia&theme=algolia" alt="firasbenattia" /></p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=firasbenattia&theme=react)
+
 
 
 
