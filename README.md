@@ -26,7 +26,7 @@ I am completely passionate about full stack web development. I love creating bot
 [![Mail Badge](https://img.shields.io/badge/-firasbenattia033@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firasbenattia033@gmail.com)
 
 <!-- GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/github/followers/firasbenattia?style=social)
+![GitHub followers](https://img.shields.io/github/followers/firasbenattia?label=Followers&style=flat) **23 followers**
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=firasbenattia)
 <img src="https://img.shields.io/badge/Age-23-blue" alt="Age" />
 
