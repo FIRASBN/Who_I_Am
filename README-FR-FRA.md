@@ -51,5 +51,15 @@ Je suis FIRAS BEN ATTIA, étudiant en informatique en Tunisie 💻. J'ai 23 ans 
 
 </div>
 
+<!-- github stats  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="github stats icon"><b>  github stats</b>
+<br>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FIRASBN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FIRASBN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 Dernière édition le: 07/06/2025
