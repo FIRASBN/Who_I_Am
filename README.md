@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hey , I'm FIRAS </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HI+I'M+FIRAS+BEN+ATTIA;FULL+STACK+DEVELOPER&color=cyan&center=true" alt="Typing SVG" /></a>
@@ -27,8 +26,8 @@ I am completely passionate about full stack web development. I love creating bot
 [![Mail Badge](https://img.shields.io/badge/-firasbenattia033@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firasbenattia033@gmail.com)
 
 <!-- GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/badge/GitHub%20Followers-5-blue?style=social)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=FirasBenAttia)
+![GitHub followers](https://img.shields.io/github/followers/firasbenattia?style=social)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=firasbenattia)
 <img src="https://img.shields.io/badge/Age-23-blue" alt="Age" />
 
 <!-- Ligne  -->
@@ -49,9 +48,11 @@ I am completely passionate about full stack web development. I love creating bot
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="github stats"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![My Repository's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirasBenAttia&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=FirasBenAttia&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasBenAttia&&theme=algolia" alt="FirasBenAttia" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasbenattia&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasbenattia&show_icons=true&theme=radical&count_private=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenattia&theme=algolia" alt="firasbenattia" /></p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=firasbenattia&theme=react)
 
 
 
@@ -65,24 +66,23 @@ I am completely passionate about full stack web development. I love creating bot
 
 
 Last Edited on: 07/06/2025
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+<details>   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
   <samp>
       <br/>
         <p align="center">
-          <a href="https://github.com/FirasBenAttia/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirasBenAttia&theme=gruvbox&layout=compact&hide_border=true"
-          alt="FirasBenAttia :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FirasBenAttia&theme=gruvbox&layout=compact&hide_border=true"
-          alt="FirasBenAttia :: Top Langs by commit" />
+          <a href="https://github.com/firasbenattia/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbenattia&theme=gruvbox&layout=compact&hide_border=true"
+          alt="firasbenattia :: Top Languages by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firasbenattia&theme=gruvbox&layout=compact&hide_border=true"
+          alt="firasbenattia :: Top Languages by commit" />
           </a>
         </p>
     <br>
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25" alt="trophy icon"><b> Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FirasBenAttia&theme=nord&column=7)](https://github.com/FirasBenAttia/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=firasbenattia&theme=nord&column=7)](https://github.com/firasbenattia/github-profile-trophy)
 
 <br>
 </details>
