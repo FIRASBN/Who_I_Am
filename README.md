@@ -16,7 +16,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm FIRAS BEN ATTIA, a Computer Science student at ISG Gabes in Tunisia 💻. I'm 23 years old and
+I'm FIRAS BEN ATTIA, a Computer Science student in Tunisia 💻. I'm 23 years old and
 I am completely passionate about full stack web development. I love creating both frontend and backend solutions and am constantly learning new technologies to improve my skills.
 
 <!-- Let's Connect..! -->
@@ -27,7 +27,7 @@ I am completely passionate about full stack web development. I love creating bot
 [![Mail Badge](https://img.shields.io/badge/-firasbenattia033@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firasbenattia033@gmail.com)
 
 <!-- GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/github/followers/FirasBenAttia?style=social)
+![GitHub followers](https://img.shields.io/badge/GitHub%20Followers-5-blue?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=FirasBenAttia)
 <img src="https://img.shields.io/badge/Age-23-blue" alt="Age" />
 
@@ -35,12 +35,6 @@ I am completely passionate about full stack web development. I love creating bot
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
--->
 
 
 <!-- Skills  -->
