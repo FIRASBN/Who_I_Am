@@ -58,7 +58,7 @@ I am completely passionate about full stack web development. I love creating bot
 Last Edited on: 07/06/2025
 
 <!-- github stats  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="github stats icon"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="github stats icon"><b>  github stats</b>
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -68,6 +68,8 @@ Last Edited on: 07/06/2025
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FIRASBN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FIRASBN/FIRASBN/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIRASBN/FIRASBN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIRASBN/FIRASBN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIRASBN/FIRASBN/output/pacman-contribution-graph.svg">
+</picture>
