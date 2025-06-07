@@ -44,17 +44,6 @@ I am completely passionate about full stack web development. I love creating bot
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#) [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 
-<!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="github stats"><b> Github Stats </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasbenattia&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasbenattia&show_icons=true&theme=radical&count_private=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasbenattia&theme=algolia" alt="firasbenattia" /></p>
-
-
-
-
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -66,23 +55,4 @@ I am completely passionate about full stack web development. I love creating bot
 
 
 Last Edited on: 07/06/2025
-<details>   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/firasbenattia/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firasbenattia&theme=gruvbox&layout=compact&hide_border=true"
-          alt="firasbenattia :: Top Languages by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firasbenattia&theme=gruvbox&layout=compact&hide_border=true"
-          alt="firasbenattia :: Top Languages by commit" />
-          </a>
-        </p>
-    <br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25" alt="trophy icon"><b> Trophies</b>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=firasbenattia&theme=nord&column=7)](https://github.com/firasbenattia/github-profile-trophy)
-
-<br>
-</details>
