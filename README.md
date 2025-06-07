@@ -22,9 +22,9 @@ I am completely passionate about full stack web development. I love creating bot
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-FirasBenAttia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ben-attia/) 
-[![Instagram Badge](https://img.shields.io/badge/-@FirasBenAttia-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/firasbenattia/)
-[![Mail Badge](https://img.shields.io/badge/-FirasBenAttia-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firasbenattia@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Firas-Ben-Attia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ben-attia/) 
+[![Instagram Badge](https://img.shields.io/badge/-@FirasBenAttia1-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/firasbenattia1/)
+[![Mail Badge](https://img.shields.io/badge/-firasbenattia033@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firasbenattia033@gmail.com)
 
 <!-- GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/FirasBenAttia?style=social)
