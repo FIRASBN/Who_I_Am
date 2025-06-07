@@ -53,13 +53,7 @@ I am completely passionate about full stack web development. I love creating bot
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=FirasBenAttia&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasBenAttia&&theme=algolia" alt="FirasBenAttia" /></p>
 
-![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FirasBenAttia&theme=react)
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -69,11 +63,6 @@ I am completely passionate about full stack web development. I love creating bot
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FirasBenAttia&repo=ecommerce-project-frontend&theme=react)](https://github.com/FirasBenAttia/ecommerce-project-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FirasBenAttia&repo=ecommerce-project-backend&theme=react)](https://github.com/FirasBenAttia/ecommerce-project-backend)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Last Edited on: 07/06/2025
 <details> 
