@@ -15,7 +15,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **À propos de moi**-->
 **À propos de moi**
 
-Je suis FIRAS BEN ATTIA, étudiant en informatique en Tunisie 💻. J'ai 23 ans et je suis totalement passionné par le développement web full stack. J'adore créer des solutions frontend et backend et j'apprends constamment de nouvelles technologies pour améliorer mes compétences.
+Je suis FIRAS BEN ATTIA, étudiant en informatique en Tunisie 💻. J'ai 24 ans et je suis totalement passionné par le développement web full stack. J'adore créer des solutions frontend et backend et j'apprends constamment de nouvelles technologies pour améliorer mes compétences.
 
 <!-- Prenons contact..! -->
 # <b> Prenons contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" alt="contact">
