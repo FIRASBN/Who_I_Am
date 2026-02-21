@@ -15,7 +15,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm FIRAS BEN ATTIA, a Computer Science student in Tunisia 💻. I'm 23 years old and
+I'm FIRAS BEN ATTIA, a Computer Science student in Tunisia 💻. I'm 24 years old and
 I am completely passionate about full stack web development. I love creating both frontend and backend solutions and am constantly learning new technologies to improve my skills.
 
 <!-- Let's Connect..! -->
