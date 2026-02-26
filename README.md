@@ -26,7 +26,7 @@ I am completely passionate about full stack web development. I love creating bot
 
 <!-- GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/FIRASBN?style=social)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=firasbenattia)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=FIRASBN)
 <img src="https://img.shields.io/badge/Age-24-blue" alt="Age" />
 
 <!-- Ligne  -->
